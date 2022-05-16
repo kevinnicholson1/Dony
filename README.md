@@ -1,2 +1,0 @@
-# Dony
-Dony Code Exercise
